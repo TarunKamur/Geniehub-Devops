@@ -59,18 +59,18 @@ jobs:
 
 
 #then you have to go to package.json and have to paste your url as homepage there
+## like i have updated package.json automatically it has gone through process
 
-```
+
 "homepage" : "your_url"
 "Homepage (Web brower):https://tarunkamur.github.io/calculator-app-in-react/"
 
 
 ## now you CI/CD pipeline using github actions has been built successfully and when you push anything it will automatically go through the stages and deployed successfully.
 
-## After Clicking the git-url
+## After Clicking the git-url.
 ![image](https://github.com/TarunKamur/Geniehub-Devops/assets/152691126/5654c692-b7b1-4b5d-abf8-90ce1af17061)
 ![image](https://github.com/TarunKamur/Geniehub-Devops/assets/152691126/6558ce1a-a767-46c5-a6a5-c887b06cf80c)
 
 
 
-## like i have updated package.json automatically it has gone through process
